@@ -4,21 +4,21 @@ Render HighCharts with React.js using JSON data.  This is a basic, working templ
 
 ## Examples
 
-'''javascript
+```javascript
 var chartInstance = new Highcharts.Chart(chartOptions);
 this.setState({
   chartInstance: chartInstance
 });
-'''
+```
 
-'''javascript
+```javascript
 var chart = React.render(
   React.createElement(Chart, {
     seriesModel: seriesObject,
     chartModel: chartObject}),
   document.getElementById('example')
 );
-'''
+```
 
 ## Installation
 
