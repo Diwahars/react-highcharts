@@ -47,8 +47,7 @@ JSX users: src/chart.js
 
 JavaScript users: build/chart.js
 
-####
-Note for JSX users:
+#### Note for JSX users:
 
 Be sure to transform your JSX file into a JavaScript file.
 ex: src/chart.js -> build/chart.js
