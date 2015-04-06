@@ -2,7 +2,7 @@
 
 Render HighCharts with React.js using JSON data.  This is a basic, working template of a bar chart with React that anyone can pull and start working on.
 
-![alt text](https://github.com/jasonganub/react-highcharts/tree/master/screenshots/HighChartsScreenshot.png "Screenshot of a HighCharts example")
+![alt text](https://github.com/jasonganub/react-highcharts/blob/master/screenshots/HighChartsScreenshot.PNG "Screenshot of a HighCharts example")
 
 ## Examples
 
