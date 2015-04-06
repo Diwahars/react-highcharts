@@ -41,12 +41,17 @@ Download the full directory as a zip to use it as a template.
 
 ## Usage
 
-The JSON data is modifiable within src/chart.js folder under the seriesObject array.
+The JSON data is modifiable within src/chart.js in the seriesObject array.
 
-If you want to use the JSX file, src/chart.js
-If you want to use the JavaScript file, build/chart.js
+If you want to work in JSX
+  Use src/chart.js
 
-Note: build/chart.js is the JavaScript file that was transformed from the JSX file, src/chart.js.  If you are going to work with the JSX file, be sure to use "jsx --watch src/ build/" from the main directory.  This will convert any JSX files in the src directory to JavaScript files in the build directory.
+If you want to work in JavaScript
+  Use build/chart.js
+
+Note for JSX users:
+  Be sure to transform your JSX file into a JavaScript file.
+  ex: src/chart.js -> build/chart.js
 
 ## History
 
