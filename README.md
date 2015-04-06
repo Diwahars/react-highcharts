@@ -43,15 +43,15 @@ Download the full directory as a zip to use it as a template.
 
 The JSON data is modifiable within src/chart.js in the seriesObject array.
 
-If you want to work in JSX
-  Use src/chart.js
+JSX users: src/chart.js
 
-If you want to work in JavaScript
-  Use build/chart.js
+JavaScript users: build/chart.js
 
+####
 Note for JSX users:
-  Be sure to transform your JSX file into a JavaScript file.
-  ex: src/chart.js -> build/chart.js
+
+Be sure to transform your JSX file into a JavaScript file.
+ex: src/chart.js -> build/chart.js
 
 ## History
 
