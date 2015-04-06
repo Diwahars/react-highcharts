@@ -58,7 +58,7 @@ ex: src/chart.js -> build/chart.js
 
 ## Credits
 
-With the help of Justin Woo's Mori implementation https://github.com/justinwoo/highcharts-mori-test
+With the help of Justin Woo's Mori implementation, I minimized the solution to a working basic template.  If you would like a resizable chart, view his implementation at this link.  https://github.com/justinwoo/highcharts-mori-test
 
 ## License
 
